@@ -504,7 +504,12 @@ http://203.162.235.41:16907
 #EXTINF:-1 tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="NHẬT BẢN", AT-X
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="NHẬT BẢN", FUJI TV
-http://main2.mov3.co/hls/main.m3u8
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-logo="https://s.mxtv.jp/images/yumelion.png" group-title="NHẬT BẢN", TOKYO MX 
+https://neetball.net/live/test3.m3u8
+#EXTINF:-1 tvg-logo="https://global.weathernews.com/wp-content/themes/custom-thema/images/common/logo.svg" group-title="NHẬT BẢN", WEATHER NEWS JAPANJAPAN
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png",CCTV-1
